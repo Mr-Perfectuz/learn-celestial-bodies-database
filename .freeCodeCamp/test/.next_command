@@ -149,3 +149,6 @@ git remote add origin https://github.com/Mr-Perfectuz/-Celestial-Bodies-Database
 git status
 git branch
 git add .
+git commit -m "First commit"
+git push
+git push
